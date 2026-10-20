@@ -1,0 +1,23 @@
+# sbt / Scala build artifacts
+bin/
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/cache/
+project/plugins/target/
+.lib/
+
+# IDEs (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.metals/
+.bloop/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
